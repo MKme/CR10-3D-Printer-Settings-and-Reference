@@ -7,7 +7,7 @@ Some files are remixes from Thingiverse. Someday I'll get them posted there too.
 Videos showing the results can be found here:
 https://www.youtube.com/playlist?list=PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek
 
-<iframe type="text/html" width="560" height="315" src="https://www.youtube.com/embed/PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek" frameborder="0"></iframe>
+Added profiles for the GASB flying wing found on Thingiverse here: https://www.thingiverse.com/thing:1659724
 
 
 Compatibility:
