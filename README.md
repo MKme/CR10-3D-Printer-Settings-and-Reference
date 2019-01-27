@@ -7,6 +7,9 @@ Some files are remixes from Thingiverse. Someday I'll get them posted there too.
 Videos showing the results can be found here:
 https://www.youtube.com/playlist?list=PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek
 
+3DLabPrint Planes videos here:
+https://www.youtube.com/watch?v=kqCEuvkT96I&list=PLxyM2a_cfnzjqXU2XUU06dXUqVmngzLA-
+
 Added profiles for the GASB flying wing found on Thingiverse here: https://www.thingiverse.com/thing:1659724
 
 
