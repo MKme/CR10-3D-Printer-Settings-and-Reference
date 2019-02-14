@@ -15,3 +15,4 @@ Added profiles for the GASB flying wing found on Thingiverse here: https://www.t
 
 Compatibility:
 23/2018- Profiles are confirmed working with Cura 2.6.2 
+Feb 2019- Added CURA since Ultimaker site has removed it.
